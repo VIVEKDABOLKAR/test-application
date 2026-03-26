@@ -1,0 +1,27 @@
+# Maven
+target/
+.m2/
+*.jar
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Application
+logs/
+*.log
+config-local.json
+
+# Build
+out/
+build/
+dist/
